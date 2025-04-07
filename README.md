@@ -15,3 +15,5 @@ Compile this code:
 cd <directory>
 4. Run the following command to compile the code:
 cargo run
+
+If compiling fails or you have any questions feel free to ask.
