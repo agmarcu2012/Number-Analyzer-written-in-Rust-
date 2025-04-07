@@ -12,7 +12,7 @@ Compile this code:
 1. Install rustup
 2. Open Powershell ( Windows ) or the Terminal ( Linux, MacOS )
 3. Select the directory where the code is located ( .zip file extracted ) using the following command:
-cd <directory>
+cd [directory]
 4. Run the following command to compile the code:
 cargo run
 
